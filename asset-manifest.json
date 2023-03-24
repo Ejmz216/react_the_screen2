@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_the_screen2/static/css/main.71fb6246.css",
+    "main.js": "/react_the_screen2/static/js/main.676abc0f.js",
+    "index.html": "/react_the_screen2/index.html",
+    "main.71fb6246.css.map": "/react_the_screen2/static/css/main.71fb6246.css.map",
+    "main.676abc0f.js.map": "/react_the_screen2/static/js/main.676abc0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fb6246.css",
+    "static/js/main.676abc0f.js"
+  ]
+}
