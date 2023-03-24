@@ -9,3 +9,5 @@ En este post, incluiré documentación commit a commit de todo el proceso del pr
 Link de Repo:
 
 Link del proyecto: (SOON)
+
+Link Documentacion: https://www.notion.so/The-Screen-V2-0-4d4b55cc72a54c2ab365ea41c582a242
