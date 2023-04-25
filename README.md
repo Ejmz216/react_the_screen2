@@ -1,13 +1,13 @@
 # The Screen V2.0
 
-Este proyecto es una nueva versión de The Screen, una Single Page Application creada inicialmente con VanillaJS, HTML5 y CSS3.
+This project is a new version of The Screen, a Single Page Application initially created with VanillaJS, HTML5, and CSS3.
 
-En esta ocasión, he optado por realizar una actualización completa (remake) de la aplicación utilizando ReactJS y el conocido método de organización y buenas prácticas "Atomic Design". Además, cambiaré completamente el estilo y añadiré nuevas funcionalidades en el futuro, como el registro de usuarios y la búsqueda de actores.
+This time, I have opted to completely update (remake) the application using ReactJS and the well-known organization and best practices method "Atomic Design". Additionally, I will completely change the style and add new functionalities in the future, such as user registration and actor search.
 
-En este post, incluiré documentación commit a commit de todo el proceso del proyecto, utilizando ChatGPT-3 para agilizar el proceso. Es importante tener en cuenta que, al tratarse de un proyecto de práctica en ReactJS, pueden haber cambios drásticos entre cada actualización. Sin embargo, he decidido hacerlo así para documentar mi proceso y poder ayudar al lector (yo) en futuras implementaciones con funcionalidades similares (y que no vuelva a caer en los mismos errores por olvidar ciertos algoritmos).
+In this post, I will include commit-to-commit documentation of the entire project process, using ChatGPT-3 to streamline the process. It is important to note that, as this is a practice project in ReactJS, there may be drastic changes between each update. However, I have decided to do it this way to document my process and help the reader (myself) in future implementations with similar functionalities (and to avoid making the same mistakes by forgetting certain algorithms).
 
-Link de Repo:
+Repo's Link:
 
-Link del proyecto: (SOON)
+Web: (SOON)
 
-Link Documentacion: https://www.notion.so/The-Screen-V2-0-4d4b55cc72a54c2ab365ea41c582a242
+Documentation link: https://www.notion.so/The-Screen-V2-0-4d4b55cc72a54c2ab365ea41c582a242
